@@ -9,7 +9,8 @@
 
 ## go语言的基本语法
 
-- [介绍go语言](./1/description-go.md)
+
+
 - [go语言的包管理工具](./1/gomod.md)
 - [go语言的基础组件](./1/int.md)
 - [go语言常用关键字](./1/for.md)
